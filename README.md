@@ -66,7 +66,12 @@ endmodule
 
 
 **Output Timing Waveform**
+**FULL ADDER**
 ![image](https://github.com/soundariyan18/FULL_ADDER_SUBTRACTOR/assets/119393307/5b1f42fa-1059-4fbb-b811-350cd5aa79c9)
+
+**FULL SUBRACTOR
+![image](https://github.com/soundariyan18/FULL_ADDER_SUBTRACTOR/assets/119393307/ce4ed557-2927-4a22-bfeb-4be3a4f2638f)
+
 
 
 **Result:**
